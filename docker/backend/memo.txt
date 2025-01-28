@@ -1,0 +1,14 @@
+
+https://zenn.dev/cloud_ace/articles/line-vertexai-vol3-5
+
+learn-gcp-446802
+
+terraform plan -var="project_id=learn-gcp-446802" -var="instance_name=gcptest" -var="db_user=root" -var="db_password=root" -var="db_name=db_test"
+terraform apply -var="project_id=learn-gcp-446802" -var="instance_name=gcptest" -var="db_user=root" -var="db_password=root" -var="db_name=db_test"
+
+
+
+
+terraform plan -var="project_id=learn-gcp-446802" -var="instance_name=gcptest22" -var="db_user=root" -var="db_password=root" -var="db_name=db_test"
+terraform apply -var="project_id=learn-gcp-446802" -var="instance_name=gcptest22" -var="db_user=root" -var="db_password=root" -var="db_name=db_test"
+
