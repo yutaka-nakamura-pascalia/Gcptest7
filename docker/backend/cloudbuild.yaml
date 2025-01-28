@@ -22,9 +22,9 @@ steps:
       [
         "run",
         "deploy",
-        "my-image",
+        "my-image-gcptest",
         "--image",
-        "asia-northeast1-docker.pkg.dev/learn-gcp-446802/my-docker-repo/my-image:latest",
+        "asia-northeast1-docker.pkg.dev/learn-gcp-446802/my-docker-repo/my-image-gcptest:latest",
         "--platform",
         "managed",
         "--allow-unauthenticated",
